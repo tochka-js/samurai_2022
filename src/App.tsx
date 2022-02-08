@@ -12,6 +12,7 @@ function App() {
                 <div><a>News</a></div>
                 <div><a>Music</a></div>
                 <div><a>Settings</a></div>
+                <div><a>Settings</a></div>
             </nav>
         </div>
     )
